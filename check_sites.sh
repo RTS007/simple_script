@@ -1,4 +1,4 @@
-`#!/bin/sh
+#!/bin/sh
 # @copyright RTS007
 # @breef To rape Russian sites
 
@@ -19,4 +19,3 @@ while [ 1 ]; do
       fi
    done
 done
-`
